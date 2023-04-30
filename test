@@ -1,0 +1,3 @@
+_G.Main_Table = {
+    ["Key"] = {"Name", 1, 30, true}
+}
